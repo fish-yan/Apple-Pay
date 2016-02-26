@@ -1,6 +1,5 @@
 # Apple-Pay
-#iOS 9 Day by Day
-#8. Apple Pay
+## 译文: http://blog.csdn.net/fish_yan_/article/details/50747271
 
 Apple Pay was introduced in iOS 8, and is the easy, secure, and private way to pay for physical goods and services within apps. It makes it simple for users to pay for things by only requiring their fingerprint to authorise a transaction. 
 
